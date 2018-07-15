@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  TradingOptSolve.cpp
+c:\users\buin\source\repos\tradingoptsolve\tradingoptsolve\tradingoptsolve.cpp(81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  TradingOptSolve.vcxproj -> C:\Users\Buin\source\repos\TradingOptSolve\x64\Debug\TradingOptSolve.exe
